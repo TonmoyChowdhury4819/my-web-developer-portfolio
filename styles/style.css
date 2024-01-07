@@ -145,5 +145,16 @@ main {
     line-height: 30px; /* 166.667% */
 }
 
+/* skills related style */
+#what-i-do-description{
+    padding: 30px 150px;
+}
+
+.skills-container{
+    display: flex;
+}
+
+
+
 
 
